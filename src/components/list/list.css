@@ -1,0 +1,10 @@
+.listContainer {
+  width: 100%;
+  min-height: 100vh;
+  /* background-color: greenyellow; */
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
